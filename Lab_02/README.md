@@ -33,7 +33,3 @@ Task 2-де:
 - JavaScript (ES6)
 - React
 - JSX
-
----
-
-AI_REPORT
